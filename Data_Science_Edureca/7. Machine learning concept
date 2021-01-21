@@ -1,0 +1,19 @@
+ML is a subset of AI that provides computers with the ability to learn without being explicitly program. ML extract knowledge from data.Machine learning uses data to detect pattern and creat a model and adjust prorgam action accordingly.Machine learnig steps are :traning data, learning algorithm, model, test data, accuracy.
+
+Machine learnig Application:
+1. Siri
+2. Healthcare
+3. Retail
+
+types of machine learning: 
+
+Supervised learning: where data set contains input and output called as labelled data. You have some features data and you know the output of this features. 
+
+
+HOw a problem is solved using machine learning?
+
+Is this A Or B? >>> Clasification
+Is this wierd? >>> Anomaly detection
+HOw much or how many? >>> Regression algorithm
+How is this organized? >>> Clustering algorithm
+WHat should I do next? >>> Reinforcement Algorithm
